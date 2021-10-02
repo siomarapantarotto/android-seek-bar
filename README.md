@@ -22,12 +22,12 @@ This repo works like a lab. It is a quick reference for the basic functionality 
 
 
 ## Screenshots
-<kbd><img src="https://user-images.githubusercontent.com/5893219/135733889-a0e1542e-8bd6-4559-98f7-a68cff92d876.png" width="145" height="320"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/135733890-603029bd-9a54-4fcc-a7c2-3d0d6faf60fe.png" width="145" height="320"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/135733891-9297c894-58a6-4e75-ab2f-e0482e9ef194.png" width="145" height="320"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/135733892-62411d20-5d80-4223-8321-954d3bc94edd.png" width="145" height="320"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/135733893-f18e6d00-987d-4fde-a732-6ecfaa947b5b.png" width="145" height="320"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/135733888-d7160ad8-d098-4aaf-a4a3-976d6ccbd467.png" width="145" height="320"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/135733889-a0e1542e-8bd6-4559-98f7-a68cff92d876.png" width="150" height="300"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/135733890-603029bd-9a54-4fcc-a7c2-3d0d6faf60fe.png" width="150" height="300"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/135733891-9297c894-58a6-4e75-ab2f-e0482e9ef194.png" width="150" height="300"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/135733892-62411d20-5d80-4223-8321-954d3bc94edd.png" width="150" height="300"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/135733893-f18e6d00-987d-4fde-a732-6ecfaa947b5b.png" width="150" height="300"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/135733888-d7160ad8-d098-4aaf-a4a3-976d6ccbd467.png" width="150" height="300"></kbd>
 
 
 ## How to contribute
