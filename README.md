@@ -11,12 +11,6 @@
 ## General info
 This repo works like a lab. It is a quick reference for the basic functionality of an android component already used in some application or in a simple exercise.
 
-@see
-
-- MainActivity.java
-- activity_main.xml
-- strings.xml
-
 
 ## Technologies
 
@@ -28,11 +22,12 @@ This repo works like a lab. It is a quick reference for the basic functionality 
 
 
 ## Screenshots
-<kbd><img src="https://user-images.githubusercontent.com/5893219/135548185-5cca4987-e9e3-43de-adb9-cf6254f064c1.png" width="145" height="320"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/135548177-a286ea2a-5a28-4a19-a231-01995a83e1a8.png" width="145" height="320"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/135548179-157d3d5e-ac28-4a96-b5c7-af56e472a168.png" width="145" height="320"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/135548180-9a91ba85-d3d0-46c4-8c16-511b946fc8ec.png" width="145" height="320"></kbd>
-<kbd><img src="https://user-images.githubusercontent.com/5893219/135548182-ed184951-f81b-467e-9b9c-e17756b5c5a1.png" width="145" height="320"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/135733889-a0e1542e-8bd6-4559-98f7-a68cff92d876.png" width="145" height="320"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/135733890-603029bd-9a54-4fcc-a7c2-3d0d6faf60fe.png" width="145" height="320"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/135733891-9297c894-58a6-4e75-ab2f-e0482e9ef194.png" width="145" height="320"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/135733892-62411d20-5d80-4223-8321-954d3bc94edd.png" width="145" height="320"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/135733893-f18e6d00-987d-4fde-a732-6ecfaa947b5b.png" width="145" height="320"></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/5893219/135733888-d7160ad8-d098-4aaf-a4a3-976d6ccbd467.png" width="145" height="320"></kbd>
 
 
 ## How to contribute
